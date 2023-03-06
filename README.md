@@ -1,3 +1,6 @@
+**in-case this README file is unable to preview images attached then please consider the MS-Word File "Extension Description.docx" for the same.**
+
+
 # Social Media Blocker
 ## PAABAN PANDA
 ## ELECTRICAL ENGGINEERING
@@ -25,13 +28,13 @@ The extension has the following features:-
 1)	Blocks the website after fixed usage per day.
 After using any social site for 10 minutes it closes the site by showing a page like this:-
 
-![]()
+Image- Webpage created by "timeout.html" in the folder or the image in Maker-s-Project/Social Media Blocker/readme_images/timeout_page.png
 
 Background credits- https://alvarotrigo.com/blog/animated-backgrounds-css/
 
 ### JS Code for limiting the use:-
 
-![](readme_images/
+Image in Maker-s-Project/Social Media Blocker/readme_images/timeout_code.png
 
 generateCSSforLimitingDuration() function gives the CSS behind the page and generateHTMLforLimitingDuration() function gives the HTML behind the page as defined above in code.
 
@@ -39,11 +42,11 @@ generateCSSforLimitingDuration() function gives the CSS behind the page and gene
 
 Following suggestions are made after sites being blocked.
 
-![](readme_images/
+Image in Maker-s-Project/Social Media Blocker/readme_images/productive_use.png
 
 ## HTML code for this:
 
-![](readme_images/
+Image in Maker-s-Project/Social Media Blocker/readme_images/anchor_tags.png
 
 The user can switch to those after the social websites being blocked.
 
@@ -52,13 +55,13 @@ The user can switch to those after the social websites being blocked.
 
 If the site is opened during 9AM-4PM then the site can’t be open and a page like this will be shown.
 
-![](readme_images/
+Webpage created by "blocked.html" or image in Maker-s-Project/Social Media Blocker/readme_images/website_blocked.png
 
 Backgrounds credits-https://blog.hubspot.com/website/css-animation-examples
 
 ## JS code for blocking the page at particular part of day:
 
-![](readme_images/
+Image in Maker-s-Project/Social Media Blocker/readme_images/blocked_at_this_time.png
 
 generateCSSforDeningAccess() function defines the CSS behind this page and generateHTMLforDeningAccess() function creates the basic HTML for the page as defined above.
 
@@ -67,20 +70,20 @@ generateCSSforDeningAccess() function defines the CSS behind this page and gener
 
 ###### A.	JSON File
 
-![](readme_images/
+Image of the JSON file or Image- Maker-s-Project/Social Media Blocker/readme_images/json.png
 
 This manifest.json file controls the extension.
 
 
 ######	B.	Extension Button
 
-![](readme_images/
+image in Maker-s-Project/Social Media Blocker/readme_images/icon.png
 
 The extension can be operated from this menu.
 
 ######	C.	Function that defines HTML and CSS of Pages
 
-![](readme_images/
+image in Maker-s-Project/Social Media Blocker/readme_images/four_functions.png
 
 These 4 functions defined the HTML and CSS for the 2pages.
 
