@@ -1,7 +1,7 @@
 ** This README file is unable to preview images attached so please please consider the MS-Word File "Extension Description.docx" for the same.**
 
 
-# Social Media Blocker
+# Social Media Blocker (For FaceBook, Instagram, Youtube and Discord)
 ## PAABAN PANDA
 ## ELECTRICAL ENGGINEERING
 
