@@ -1,4 +1,4 @@
-**in-case this README file is unable to preview images attached then please consider the MS-Word File "Extension Description.docx" for the same.**
+** This README file is unable to preview images attached so please please consider the MS-Word File "Extension Description.docx" for the same.**
 
 
 # Social Media Blocker
