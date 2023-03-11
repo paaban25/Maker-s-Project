@@ -28,7 +28,7 @@ The extension has the following features:-
 1)	Blocks the website after fixed usage per day.
 After using any social site for 10 minutes it closes the site by showing a page like this:-
 
-Image- Webpage created by "timeout.html" in the folder or the image in Maker-s-Project/Social Media Blocker/readme_images/timeout_page.png
+
 
 Background credits- https://alvarotrigo.com/blog/animated-backgrounds-css/
 
