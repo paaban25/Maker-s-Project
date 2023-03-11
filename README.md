@@ -42,12 +42,12 @@ generateCSSforLimitingDuration() function gives the CSS behind the page and gene
 
 Following suggestions are made after sites being blocked.
 
-
+![productive_use](https://user-images.githubusercontent.com/122373317/224470704-0827c6cb-774e-4f3e-b8ea-0708ca238bb7.png)
 
 
 ## HTML code for this:
 
-Image in Maker-s-Project/Social Media Blocker/readme_images/anchor_tags.png
+
 
 The user can switch to those after the social websites being blocked.
 
