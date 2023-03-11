@@ -79,13 +79,13 @@ This manifest.json file controls the extension.
 
 ######	B.	Extension Button
 
-
+![icon](https://user-images.githubusercontent.com/122373317/224470956-c2ce58ef-c36b-4b91-92f5-62bdf38937ec.png)
 
 The extension can be operated from this menu.
 
 ######	C.	Function that defines HTML and CSS of Pages
 
-image in Maker-s-Project/Social Media Blocker/readme_images/four_functions.png
+
 
 These 4 functions defined the HTML and CSS for the 2pages.
 
