@@ -57,13 +57,13 @@ The user can switch to those after the social websites being blocked.
 
 If the site is opened during 9AM-4PM then the site can’t be open and a page like this will be shown.
 
-
+![website_blocked](https://user-images.githubusercontent.com/122373317/224470835-c6295cb0-a5fe-47f4-9db5-f57ed4622a9b.png)
 
 Backgrounds credits-https://blog.hubspot.com/website/css-animation-examples
 
 ## JS code for blocking the page at particular part of day:
 
-Image in Maker-s-Project/Social Media Blocker/readme_images/blocked_at_this_time.png
+
 
 generateCSSforDeningAccess() function defines the CSS behind this page and generateHTMLforDeningAccess() function creates the basic HTML for the page as defined above.
 
