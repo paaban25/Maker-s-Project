@@ -85,7 +85,7 @@ The extension can be operated from this menu.
 
 ######	C.	Function that defines HTML and CSS of Pages
 
-
+![four_functions](https://user-images.githubusercontent.com/122373317/224470988-d7d512c3-8c59-4196-a867-f4cdb110321b.png)
 
 These 4 functions defined the HTML and CSS for the 2pages.
 
