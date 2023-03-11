@@ -47,6 +47,7 @@ Following suggestions are made after sites being blocked.
 
 ## HTML code for this:
 
+![anchor_tags](https://user-images.githubusercontent.com/122373317/224470789-206ca98f-4846-4237-9151-f697887f301e.png)
 
 
 The user can switch to those after the social websites being blocked.
@@ -56,7 +57,7 @@ The user can switch to those after the social websites being blocked.
 
 If the site is opened during 9AM-4PM then the site can’t be open and a page like this will be shown.
 
-Webpage created by "blocked.html" or image in Maker-s-Project/Social Media Blocker/readme_images/website_blocked.png
+
 
 Backgrounds credits-https://blog.hubspot.com/website/css-animation-examples
 
