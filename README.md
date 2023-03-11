@@ -63,7 +63,7 @@ Backgrounds credits-https://blog.hubspot.com/website/css-animation-examples
 
 ## JS code for blocking the page at particular part of day:
 
-
+![blocked_at_this_time](https://user-images.githubusercontent.com/122373317/224470882-154955d1-06c2-47fd-900c-160ffdd3190c.png)
 
 generateCSSforDeningAccess() function defines the CSS behind this page and generateHTMLforDeningAccess() function creates the basic HTML for the page as defined above.
 
@@ -72,7 +72,7 @@ generateCSSforDeningAccess() function defines the CSS behind this page and gener
 
 ###### A.	JSON File
 
-Image of the JSON file or Image- Maker-s-Project/Social Media Blocker/readme_images/json.png
+
 
 This manifest.json file controls the extension.
 
