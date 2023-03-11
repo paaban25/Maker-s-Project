@@ -28,13 +28,13 @@ The extension has the following features:-
 1)	Blocks the website after fixed usage per day.
 After using any social site for 10 minutes it closes the site by showing a page like this:-
 
-
+![timeout_page](https://user-images.githubusercontent.com/122373317/224470593-aa1bae54-1dd0-434c-8511-9b9c2a84e16f.png)
 
 Background credits- https://alvarotrigo.com/blog/animated-backgrounds-css/
 
 ### JS Code for limiting the use:-
 
-Image in Maker-s-Project/Social Media Blocker/readme_images/timeout_code.png
+
 
 generateCSSforLimitingDuration() function gives the CSS behind the page and generateHTMLforLimitingDuration() function gives the HTML behind the page as defined above in code.
 
