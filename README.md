@@ -34,7 +34,7 @@ Background credits- https://alvarotrigo.com/blog/animated-backgrounds-css/
 
 ### JS Code for limiting the use:-
 
-
+![timeout_code](https://user-images.githubusercontent.com/122373317/224470662-5b974ecc-1bf3-49fd-8b84-81d945c816bd.png)
 
 generateCSSforLimitingDuration() function gives the CSS behind the page and generateHTMLforLimitingDuration() function gives the HTML behind the page as defined above in code.
 
@@ -42,7 +42,8 @@ generateCSSforLimitingDuration() function gives the CSS behind the page and gene
 
 Following suggestions are made after sites being blocked.
 
-Image in Maker-s-Project/Social Media Blocker/readme_images/productive_use.png
+
+
 
 ## HTML code for this:
 
