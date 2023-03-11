@@ -72,14 +72,14 @@ generateCSSforDeningAccess() function defines the CSS behind this page and gener
 
 ###### A.	JSON File
 
-
+![json](https://user-images.githubusercontent.com/122373317/224470909-b86ead66-9744-47cb-bdfc-2c7854df57b3.png)
 
 This manifest.json file controls the extension.
 
 
 ######	B.	Extension Button
 
-image in Maker-s-Project/Social Media Blocker/readme_images/icon.png
+
 
 The extension can be operated from this menu.
 
